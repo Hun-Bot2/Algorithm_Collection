@@ -1,13 +1,45 @@
-# Baekjoon
+## 학습 대시보드 (2025-)
 
-# Programmers
+### Baekjoon
+| 분류 | 풀이 수 | 상태 | 비고 |
+| :--- | :---: | :---: | :--- |
+| DFS / BFS | 0 | 진행 중 | - |
+| Greedy | 0 | 대기 | - |
+| Dynamic Programming | 0 | 대기 | - |
+| Data Structure | 0 | 대기 | - |
+| Shortest Path | 0 | 대기 | - |
 
-# LeetCode
+### LeetCode
+| 분류 | 풀이 수 | 상태 | 비고 |
+| :--- | :---: | :---: | :--- |
+| Array / String | 0 | 진행 중 | - |
+| Hash Map | 0 | 대기 | - |
+| Sliding Window | 0 | 대기 | - |
+| Stack / Queue | 0 | 대기 | - |
 
-# CodeWars
+---
 
-### JS,Python
-- Start 22-09-19 ~ End 23-02-09
+## 주차별 학습 로드맵 (8주 정복 계획)
 
-### C++
-- Start 24-07-08 
+| 주차 | 주제 | 핵심 개념 | 목표 문제 수준 |
+| :--- | :--- | :--- | :--- |
+| 1주차 | 시간 복잡도 & 구현 | Big-O, 배열, 문자열 처리, 시뮬레이션 | 백준 실버 4~5 / 리트코드 Easy |
+| 2주차 | 그리디 (Greedy) | 탐욕법, 정렬 활용, 최소 횟수 찾기 | 백준 실버 1~3 / 리트코드 Medium |
+| 3주차 | 완전 탐색 (Brute Force) | 재귀, 순열/조합, 백트래킹 기초 | 백준 실버 1~2 / 리트코드 Medium |
+| 4주차 | DFS & BFS (기초) | 스택/큐, 인접 리스트, 그래프 탐색 | 백준 실버 1 / 리트코드 Medium |
+| 5주차 | DFS & BFS (응용) | 최단 거리, 영역 구하기, 상태 트리 | 백준 골드 4~5 / 리트코드 Medium |
+| 6주차 | 이분 탐색 & 정렬 | Binary Search, 매개 변수 탐색 | 백준 실버 1 / 리트코드 Medium |
+| 7주차 | 동적 계획법 (DP) | 점화식, Bottom-up, Top-down | 백준 실버 1 ~ 골드 5 / 리트코드 Medium |
+| 8주차 | 필수 자료구조 응용 | 해시 맵, 우선순위 큐, 최단 경로 | 백준 골드 4~5 / 리트코드 Hard |
+
+---
+
+2024년 이전에 학습했던 기록들은 Before2025 폴더에서 확인할 수 있습니다.
+
+JS, Python
+기간: 2022-09-19 ~ 2023-02-09
+
+플랫폼: Baekjoon, Programmers, LeetCode, CodeWars
+
+C++
+기간: 2024-07-08 ~ 2024-12-22
